@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Stores" max_length="40" name="x_430024_shopping2_stores" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Store name" max_length="40" name="store_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Safeway" value="Safeway"/>
+                <element inactive_on_update="false" label="Target" value="Target"/>
+                <element inactive_on_update="false" label="Walmart" value="Walmart"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

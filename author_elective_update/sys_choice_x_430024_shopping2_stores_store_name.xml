@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="store_name" table="x_430024_shopping2_stores" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Safeway</label>
+            <language>en</language>
+            <name>x_430024_shopping2_stores</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 02:41:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d5c7e1bdb2300104cdbcd3f29961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 02:41:32</sys_updated_on>
+            <value>Safeway</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Target</label>
+            <language>en</language>
+            <name>x_430024_shopping2_stores</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 02:41:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d63cfa1bdb2300104cdbcd3f29961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 02:41:02</sys_updated_on>
+            <value>Target</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walmart</label>
+            <language>en</language>
+            <name>x_430024_shopping2_stores</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 02:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e56c76d7db2300104cdbcd3f299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 02:41:46</sys_updated_on>
+            <value>Walmart</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>store_name</element>
+            <name>x_430024_shopping2_stores</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 02:41:02</sys_created_on>
+            <sys_id>d94cf6d7db2300104cdbcd3f299619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>store_name</sys_name>
+            <sys_package display_value="Shopping List pt 2" source="x_430024_shopping2">e6f7fad3db2300104cdbcd3f29961954</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List pt 2">e6f7fad3db2300104cdbcd3f29961954</sys_scope>
+            <sys_update_name>sys_choice_x_430024_shopping2_stores_store_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 02:41:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
